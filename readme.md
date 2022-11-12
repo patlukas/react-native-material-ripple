@@ -1,5 +1,3 @@
-[npm-badge]: https://img.shields.io/npm/v/react-native-material-ripple.svg?colorB=ff6d00
-[npm-url]: https://npmjs.com/package/react-native-material-ripple
 [license-badge]: https://img.shields.io/npm/l/react-native-material-ripple.svg?colorB=448aff
 [license-url]: https://raw.githubusercontent.com/n4kz/react-native-material-ripple/master/license.txt
 [codeclimate-badge]: https://img.shields.io/codeclimate/maintainability/n4kz/react-native-material-ripple.svg
@@ -9,7 +7,6 @@
 
 # react-native-material-ripple
 
-[![npm][npm-badge]][npm-url]
 [![license][license-badge]][license-url]
 [![codeclimate][codeclimate-badge]][codeclimate-url]
 
@@ -29,7 +26,7 @@ Base component for touchable elements
 ## Installation
 
 ```bash
-npm install --save react-native-material-ripple
+npm i https://github.com/patlukas/react-native-material-ripple
 ```
 
 ## Usage
@@ -74,7 +71,7 @@ Other [TouchableWithoutFeedback][touchable] properties will also work
 ## Example
 
 ```bash
-git clone https://github.com/n4kz/react-native-material-ripple
+git clone https://github.com/patlukas/react-native-material-ripple
 cd react-native-material-ripple/example
 npm install
 react-native run-ios # or run-android
@@ -83,5 +80,3 @@ react-native run-ios # or run-android
 ## Copyright and License
 
 BSD License
-
-Copyright 2017-2018 Alexander Nazarov. All rights reserved.
