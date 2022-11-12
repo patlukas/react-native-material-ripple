@@ -12,7 +12,7 @@
 
   "repository": {
     "type": "git",
-    "url": "git://github.com/n4kz/react-native-material-ripple.git"
+    "url": "git://github.com/patlukas/react-native-material-ripple.git"
   },
 
   "peerDependencies": {
